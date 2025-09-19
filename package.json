@@ -1,0 +1,20 @@
+{
+  "name": "backend-pesapl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pesapal-backend.js",
+  "scripts": {
+    "start": "node pesapal-backend.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightstarrecord-del/pesapal-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightstarrecord-del/pesapal-backend/issues"
+  },
+  "homepage": "https://github.com/lightstarrecord-del/pesapal-backend#readme"
+}
