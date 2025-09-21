@@ -4,8 +4,9 @@
   "description": "",
   "main": "pesapal-backend.js",
   "scripts": {
-    "start": "node pesapal-backend.js",
-    "dev": "nodemon pesapal-backend.js"
+  "start": "node pesapal-backend.js",
+  "dev": "nodemon pesapal-backend.js",
+  "build": "echo 'No build step required for this backend'"
   },
   "repository": {
     "type": "git",
