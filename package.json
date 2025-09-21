@@ -4,7 +4,8 @@
   "description": "",
   "main": "pesapal-backend.js",
   "scripts": {
-    "start": "node pesapal-backend.js"
+    "start": "node pesapal-backend.js",
+    "dev": "nodemon pesapal-backend.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,8 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "express-validator": "^7.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
